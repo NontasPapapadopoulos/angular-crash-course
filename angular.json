@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "angular-crash-course"
+  "cli": {
+    "analytics": false
+  }
 }
