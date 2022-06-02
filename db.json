@@ -17,6 +17,30 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "go to sleep",
+      "day": "Friday 3 June 12:00am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "aaa",
+      "day": "111",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "study",
+      "day": "now",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "go to work",
+      "day": "never",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
